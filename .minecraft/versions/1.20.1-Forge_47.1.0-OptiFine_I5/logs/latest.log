@@ -1,0 +1,528 @@
+[1710月2023 00:00:04.735] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, star_648, --version, 1.20.1-Forge_47.1.0-OptiFine_I5, --gameDir, C:\Users\86151\Desktop\.minecraft\versions\1.20.1-Forge_47.1.0-OptiFine_I5, --assetsDir, C:\Users\86151\Desktop\.minecraft\assets, --assetIndex, 5, --uuid, 6daa12430b27468e8064c70040fa36aa, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --quickPlayPath, ${quickPlayPath}, --launchTarget, forgeclient, --fml.forgeVersion, 47.1.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --tweakClass, optifine.OptiFineForgeTweaker]
+[1710月2023 00:00:04.754] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.2 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[1710月2023 00:00:07.243] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[1710月2023 00:00:07.632] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[1710月2023 00:00:07.914] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[1710月2023 00:00:08.593] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[1710月2023 00:00:08.595] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/86151/Desktop/.minecraft/libraries/optifine/OptiFine/1.20.1_HD_U_I5/OptiFine-1.20.1_HD_U_I5.jar%23158!/
+[1710月2023 00:00:08.605] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\86151\Desktop\.minecraft\libraries\optifine\OptiFine\1.20.1_HD_U_I5\OptiFine-1.20.1_HD_U_I5.jar
+[1710月2023 00:00:08.609] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[1710月2023 00:00:08.709] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/86151/Desktop/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23153!/ Service=ModLauncher Env=CLIENT
+[1710月2023 00:00:08.725] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[1710月2023 00:00:08.797] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: Intel(R) Iris(R) Xe Graphics GL version 4.6.0 - Build 30.0.101.1069, Intel
+[1710月2023 00:00:09.904] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\86151\Desktop\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.1.0\fmlcore-1.20.1-47.1.0.jar is missing mods.toml file
+[1710月2023 00:00:10.037] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\86151\Desktop\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.1.0\javafmllanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[1710月2023 00:00:10.108] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\86151\Desktop\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.1.0\lowcodelanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[1710月2023 00:00:10.188] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\86151\Desktop\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.1.0\mclanguage-1.20.1-47.1.0.jar is missing mods.toml file
+[1710月2023 00:00:10.579] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[1710月2023 00:00:11.498] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[1710月2023 00:00:11.508] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 411
+[1710月2023 00:00:12.400] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[1710月2023 00:00:13.548] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[1710月2023 00:00:13.601] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1-Forge_47.1.0-OptiFine_I5, --gameDir, C:\Users\86151\Desktop\.minecraft\versions\1.20.1-Forge_47.1.0-OptiFine_I5, --assetsDir, C:\Users\86151\Desktop\.minecraft\assets, --uuid, 6daa12430b27468e8064c70040fa36aa, --username, star_648, --assetIndex, 5, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, msa, --versionType, PCL, --width, 854, --height, 480, --quickPlayPath, ${quickPlayPath}, --tweakClass, optifine.OptiFineForgeTweaker]
+[1710月2023 00:00:14.407] [main/WARN] [IMixinConfigPlugin/]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[1710月2023 00:00:14.521] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/easyvillagers/blocks/tileentity/TraderTileentityBase (java.lang.ClassNotFoundException: de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase)
+[1710月2023 00:00:14.522] [main/WARN] [mixin/]: @Mixin target de.maxhenkel.easyvillagers.blocks.tileentity.TraderTileentityBase was not found mixins.ipnext.json:MixinTraderTileEntityBase
+[1710月2023 00:00:28.364] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 360 milliseconds
+[1710月2023 00:00:31.557] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/86151/Desktop/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23192!/assets/.mcassetsroot' uses unexpected schema
+[1710月2023 00:00:31.561] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/86151/Desktop/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23192!/data/.mcassetsroot' uses unexpected schema
+[1710月2023 00:00:31.595] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[1710月2023 00:00:33.259] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: star_648
+[1710月2023 00:00:33.630] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Forge version: 47.1.0
+[1710月2023 00:00:33.640] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[1710月2023 00:00:33.724] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[1710月2023 00:00:33.725] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[1710月2023 00:00:33.727] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[1710月2023 00:00:33.727] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[1710月2023 00:00:33.768] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] 
+[1710月2023 00:00:33.768] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OptiFine_1.20.1_HD_U_I5
+[1710月2023 00:00:33.773] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Build: 20230707-211226
+[1710月2023 00:00:33.773] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OS: Windows 11 (amd64) version 10.0
+[1710月2023 00:00:33.774] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Java: 17.0.2, Eclipse Adoptium
+[1710月2023 00:00:33.774] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+[1710月2023 00:00:33.775] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[1710月2023 00:00:33.784] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL: Intel(R) Iris(R) Xe Graphics, version 4.6.0 - Build 30.0.101.1069, Intel
+[1710月2023 00:00:33.790] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Version: 4.6.0
+[1710月2023 00:00:33.803] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Maximum texture size: 16384x16384
+[1710月2023 00:00:33.807] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Checking for new version
+[1710月2023 00:00:33.809] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] OpenGL Version: 4.6.0 - Build 30.0.101.1069
+[1710月2023 00:00:33.809] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Vendor:  Intel
+[1710月2023 00:00:33.809] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Renderer: Intel(R) Iris(R) Xe Graphics
+[1710月2023 00:00:33.810] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[1710月2023 00:00:33.829] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[1710月2023 00:00:33.829] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[1710月2023 00:00:33.829] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[1710月2023 00:00:33.829] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Load shaders configuration.
+[1710月2023 00:00:33.844] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] No shaderpack loaded.
+[1710月2023 00:00:33.871] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[1710月2023 00:00:33.871] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[1710月2023 00:00:34.188] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.0, for MC 1.20.1 with MCP 20230612.114412
+[1710月2023 00:00:34.189] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.0 Initialized
+[1710月2023 00:00:35.558] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[1710月2023 00:00:35.674] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[1710月2023 00:00:35.712] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[1710月2023 00:00:35.738] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[1710月2023 00:00:35.745] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.343 ms
+[1710月2023 00:00:38.640] [Render thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: loaded in block colorizer
+[1710月2023 00:00:38.645] [Render thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: loaded in item colorizer
+[1710月2023 00:00:39.343] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: register client tooltip
+[1710月2023 00:00:39.765] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[1710月2023 00:00:39.789] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:39.790] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:39.790] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:39.790] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:39.802] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[1710月2023 00:00:39.806] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: mod_resources
+[1710月2023 00:00:39.809] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:40.102] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Forge ***
+[1710月2023 00:00:40.119] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
+[1710月2023 00:00:40.119] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
+[1710月2023 00:00:40.122] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.122] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.208] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
+[1710月2023 00:00:40.208] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.361] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[1710月2023 00:00:40.373] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
+[1710月2023 00:00:40.373] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.382] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:40.382] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:40.392] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:40.392] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:40.410] [Worker-Main-1/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:00:40.454] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[1710月2023 00:00:40.470] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:40.470] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:40.505] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:40.505] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:40.520] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:40.532] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Vanilla ***
+[1710月2023 00:00:40.680] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[1710月2023 00:00:40.590] [Render thread/ERROR] [com.mojang.blaze3d.platform.GlDebug/]: OpenGL API ERROR: 1282 (Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error)
+java.lang.Exception: Stack trace
+	at org.lwjgl.opengl.GL11C.glBindTexture(Native Method) ~[lwjgl-opengl-3.3.1.jar%23128!/:build 7]
+	at net.minecraftforge.fml.earlydisplay.RenderElement.lambda$mojang$2(RenderElement.java:103) ~[fmlearlydisplay-1.20.1-47.1.0.jar%23159!/:1.0]
+	at net.minecraftforge.fml.earlydisplay.RenderElement.render(RenderElement.java:62) ~[fmlearlydisplay-1.20.1-47.1.0.jar%23159!/:1.0]
+	at net.minecraftforge.fml.earlydisplay.DisplayWindow.lambda$paintFramebuffer$7(DisplayWindow.java:258) ~[fmlearlydisplay-1.20.1-47.1.0.jar%23159!/:1.0]
+	at java.util.ArrayList.removeIf(ArrayList.java:1672) ~[?:?]
+	at java.util.ArrayList.removeIf(ArrayList.java:1660) ~[?:?]
+	at net.minecraftforge.fml.earlydisplay.DisplayWindow.paintFramebuffer(DisplayWindow.java:258) ~[fmlearlydisplay-1.20.1-47.1.0.jar%23159!/:1.0]
+	at net.minecraftforge.fml.earlydisplay.DisplayWindow.render(DisplayWindow.java:274) ~[fmlearlydisplay-1.20.1-47.1.0.jar%23159!/:1.0]
+	at net.minecraftforge.client.loading.ForgeLoadingOverlay.m_88315_(ForgeLoadingOverlay.java:86) ~[forge-1.20.1-47.1.0-universal.jar%23197!/:?]
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:1380) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1146) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-Forge_47.1.0-OptiFine_I5.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+[1710月2023 00:00:40.651] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:40.650] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:40.651] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:40.764] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
+[1710月2023 00:00:40.764] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.768] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
+[1710月2023 00:00:40.769] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.841] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
+[1710月2023 00:00:40.842] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.873] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[1710月2023 00:00:40.918] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
+[1710月2023 00:00:40.918] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:40.930] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[1710月2023 00:00:40.980] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:40.980] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:40.993] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:40.995] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:41.021] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
+[1710月2023 00:00:41.021] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:41.062] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[1710月2023 00:00:41.094] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:41.095] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:41.106] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:41.108] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:41.235] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[1710月2023 00:00:41.236] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[1710月2023 00:00:41.240] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
+[1710月2023 00:00:41.240] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:41.278] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[1710月2023 00:00:41.281] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[1710月2023 00:00:41.308] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
+[1710月2023 00:00:41.321] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
+[1710月2023 00:00:41.322] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
+[1710月2023 00:00:41.323] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
+[1710月2023 00:00:41.324] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
+[1710月2023 00:00:41.324] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
+[1710月2023 00:00:41.325] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
+[1710月2023 00:00:41.325] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
+[1710月2023 00:00:41.326] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
+[1710月2023 00:00:41.326] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
+[1710月2023 00:00:41.327] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
+[1710月2023 00:00:41.328] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
+[1710月2023 00:00:41.407] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[1710月2023 00:00:41.416] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
+[1710月2023 00:00:41.418] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:41.426] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
+[1710月2023 00:00:41.427] [Worker-Main-6/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:41.484] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Pre-stitch: jei:textures/atlas/gui.png
+[1710月2023 00:00:41.485] [Worker-Main-4/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[1710月2023 00:00:41.491] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: jei:icons/recipe_transfer, 7 -> 14
+[1710月2023 00:00:41.656] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[1710月2023 00:00:41.915] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.20.1/HD_U.txt
+[1710月2023 00:00:42.020] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[1710月2023 00:00:42.254] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[1710月2023 00:00:42.531] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[1710月2023 00:00:42.848] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[1710月2023 00:00:43.117] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[1710月2023 00:00:43.388] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[1710月2023 00:00:43.678] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[1710月2023 00:00:43.933] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[1710月2023 00:00:44.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[1710月2023 00:00:44.346] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[1710月2023 00:00:44.559] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[1710月2023 00:00:44.776] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[1710月2023 00:00:44.960] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[1710月2023 00:00:45.115] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[1710月2023 00:00:45.319] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[1710月2023 00:00:45.495] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[1710月2023 00:00:45.655] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[1710月2023 00:00:45.794] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[1710月2023 00:00:45.943] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[1710月2023 00:00:46.126] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[1710月2023 00:00:46.260] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[1710月2023 00:00:46.395] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[1710月2023 00:00:46.519] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[1710月2023 00:00:46.659] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[1710月2023 00:00:46.791] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[1710月2023 00:00:46.922] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[1710月2023 00:00:47.077] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[1710月2023 00:00:47.237] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[1710月2023 00:00:47.394] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[1710月2023 00:00:47.539] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[1710月2023 00:00:47.657] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[1710月2023 00:00:47.810] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[1710月2023 00:00:47.905] [Worker-Main-4/WARN] [citadel/]: Failed to load patreon contributor perks
+[1710月2023 00:00:47.953] [Render thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[1710月2023 00:00:47.954] [Render thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[1710月2023 00:00:47.954] [Render thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[1710月2023 00:00:47.955] [Render thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[1710月2023 00:00:47.957] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[1710月2023 00:00:47.962] [Worker-Main-7/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 1/2
+[1710月2023 00:00:47.980] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[1710月2023 00:00:47.991] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[1710月2023 00:00:48.003] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[1710月2023 00:00:48.028] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[1710月2023 00:00:48.870] [Render thread/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 2/2
+[1710月2023 00:00:50.619] [Worker-Main-2/ERROR] [net.minecraft.client.multiplayer.AccountProfileKeyPairManager/]: Failed to retrieve profile key pair
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to POST https://api.minecraftservices.com/player/certificates
+	at com.mojang.authlib.minecraft.client.MinecraftClient.postInternal(MinecraftClient.java:112) ~[authlib-4.0.43.jar%2392!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.post(MinecraftClient.java:54) ~[authlib-4.0.43.jar%2392!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.getKeyPair(YggdrasilUserApiService.java:73) ~[authlib-4.0.43.jar%2392!/:?]
+	at net.minecraft.client.multiplayer.AccountProfileKeyPairManager.m_253252_(AccountProfileKeyPairManager.java:124) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.multiplayer.AccountProfileKeyPairManager.m_252828_(AccountProfileKeyPairManager.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+	at sun.security.ssl.SSLSocketImpl.handleEOF(SSLSocketImpl.java:1709) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1508) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1415) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:450) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:421) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:580) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:183) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1430) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1401) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:220) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.postInternal(MinecraftClient.java:109) ~[authlib-4.0.43.jar%2392!/:?]
+	... 11 more
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:483) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1500) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1415) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:450) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:421) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:580) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:183) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1430) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1401) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:220) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.postInternal(MinecraftClient.java:109) ~[authlib-4.0.43.jar%2392!/:?]
+	... 11 more
+[1710月2023 00:00:52.515] [Worker-Main-1/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[1710月2023 00:00:52.749] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/king, 23 -> 32
+[1710月2023 00:00:52.750] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:item/i_hookedcow, 9 -> 16
+[1710月2023 00:00:52.751] [Worker-Main-5/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture butchersdelight:item/i_hookedcow with size 16x14 limits mip level from 4 to 1
+[1710月2023 00:00:52.751] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/knight_w, 23 -> 32
+[1710月2023 00:00:52.751] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:block/hookedcow, 9 -> 16
+[1710月2023 00:00:52.752] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:item/i_cleaver, 575 -> 576
+[1710月2023 00:00:52.790] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: butchersdelight:item/i_sheep, 8 -> 16
+[1710月2023 00:00:52.791] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/bishop, 23 -> 32
+[1710月2023 00:00:52.792] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/king_w, 23 -> 32
+[1710月2023 00:00:52.792] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/rook, 23 -> 32
+[1710月2023 00:00:52.793] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/rook_w, 23 -> 32
+[1710月2023 00:00:52.793] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/knight, 23 -> 32
+[1710月2023 00:00:52.794] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:item/i_hookedcowskinned, 9 -> 16
+[1710月2023 00:00:52.794] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/pawn_small_w, 23 -> 32
+[1710月2023 00:00:52.795] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: butchersdelight:block/i_sheep, 8 -> 16
+[1710月2023 00:00:52.795] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/queen_w, 23 -> 32
+[1710月2023 00:00:52.796] [Worker-Main-5/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture butchersdelight:item/hook with size 16x17 limits mip level from 1 to 0
+[1710月2023 00:00:52.796] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:block/i_chicken, 6 -> 16
+[1710月2023 00:00:52.797] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/bishop_w, 23 -> 32
+[1710月2023 00:00:52.797] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/queen, 23 -> 32
+[1710月2023 00:00:52.798] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:item/i_pig, 10 -> 16
+[1710月2023 00:00:52.798] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:item/i_chicken, 6 -> 16
+[1710月2023 00:00:52.798] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: modernlife:item/pawn_small, 23 -> 32
+[1710月2023 00:00:52.799] [Worker-Main-5/INFO] [net.optifine.Config/]: [OptiFine] Scaled non power of 2: butchersdelight:block/i_pig, 10 -> 16
+[1710月2023 00:00:52.799] [Worker-Main-5/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[1710月2023 00:00:53.485] [Render thread/ERROR] [xaero.common.MinimapLogs/]: suppressed exception
+java.net.SocketTimeoutException: Read timed out
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2048) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2043) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2042) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1609) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at xaero.common.misc.Internet.checkModVersion(Internet.java:55) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.8.0_Forge_1.20.jar%23179!/:23.8.0]
+	at xaero.minimap.XaeroMinimap.loadLater(XaeroMinimap.java:251) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.8.0_Forge_1.20.jar%23179!/:23.8.0]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$makeRunnable$2(DeferredWorkQueue.java:81) ~[fmlcore-1.20.1-47.1.0.jar%23193!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.makeRunnable(DeferredWorkQueue.java:76) ~[fmlcore-1.20.1-47.1.0.jar%23193!/:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.lambda$runTasks$0(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.1.0.jar%23193!/:?]
+	at java.util.concurrent.ConcurrentLinkedDeque.forEach(ConcurrentLinkedDeque.java:1650) ~[?:?]
+	at net.minecraftforge.fml.DeferredWorkQueue.runTasks(DeferredWorkQueue.java:60) ~[fmlcore-1.20.1-47.1.0.jar%23193!/:?]
+	at net.minecraftforge.fml.core.ParallelTransition.lambda$finalActivityGenerator$2(ParallelTransition.java:35) ~[forge-1.20.1-47.1.0-universal.jar%23197!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:198) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:163) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:140) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23192!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[1.20.1-Forge_47.1.0-OptiFine_I5.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.1.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:283) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350) ~[?:?]
+	at sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803) ~[?:?]
+	at java.net.Socket$SocketInputStream.read(Socket.java:966) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:791) ~[?:?]
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:726) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1688) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3221) ~[?:?]
+	at java.net.URLConnection.getHeaderFieldLong(URLConnection.java:637) ~[?:?]
+	at java.net.URLConnection.getContentLengthLong(URLConnection.java:509) ~[?:?]
+	at xaero.common.misc.Internet.checkModVersion(Internet.java:53) ~[%5BXaero的小地图%5D%20Xaeros_Minimap_23.8.0_Forge_1.20.jar%23179!/:23.8.0]
+	... 39 more
+[1710月2023 00:00:53.492] [Render thread/INFO] [xaero.common.MinimapLogs/]: Registered player tracker system: minimap_synced
+[1710月2023 00:00:53.493] [Render thread/INFO] [xaero.common.MinimapLogs/]: Optifine!
+[1710月2023 00:00:53.493] [Render thread/INFO] [xaero.common.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
+[1710月2023 00:00:53.493] [Render thread/WARN] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Mod 'xaerominimap' took 4.624 s to run a deferred task.
+[1710月2023 00:00:56.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre36 Target: 7.0.0-pre36
+[1710月2023 00:00:56.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[1710月2023 00:00:57.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.1.0 Target: 47.2.0
+[1710月2023 00:00:57.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[1710月2023 00:00:59.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[1710月2023 00:00:59.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[1710月2023 00:00:59.492] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[1710月2023 00:00:59.492] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[1710月2023 00:00:59.633] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (Senary Audio)
+[1710月2023 00:00:59.634] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[1710月2023 00:00:59.852] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[1710月2023 00:00:59.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA_OUTDATED Current: 1.0.1 Target: 1.0.2
+[1710月2023 00:00:59.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[1710月2023 00:01:00.110] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 84
+[1710月2023 00:01:00.114] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[1710月2023 00:01:00.121] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.122] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[1710月2023 00:01:00.129] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.129] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[1710月2023 00:01:00.136] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.136] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[1710月2023 00:01:00.187] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.188] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[1710月2023 00:01:00.191] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.192] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas
+[1710月2023 00:01:00.204] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.205] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[1710月2023 00:01:00.208] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:00.208] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[1710月2023 00:01:00.211] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:01.249] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[1710月2023 00:01:01.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.7 Target: 9.1.9
+[1710月2023 00:01:02.500] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[1710月2023 00:01:02.522] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 1
+[1710月2023 00:01:02.524] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[1710月2023 00:01:02.527] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:02.528] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[1710月2023 00:01:02.531] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:02.534] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[1710月2023 00:01:02.536] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[1710月2023 00:01:02.732] [Render thread/INFO] [xaero.common.MinimapLogs/]: Successfully reloaded the minimap shaders!
+[1710月2023 00:01:02.733] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[1710月2023 00:01:02.749] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:01:02.836] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:01:02.838] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:01:05.877] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:01:05.884] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[1710月2023 00:01:05.890] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[1710月2023 00:01:05.893] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[1710月2023 00:01:14.956] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client logout
+[1710月2023 00:01:14.993] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to 26.223.162.89, 1234
+[1710月2023 00:01:33.178] [Netty Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[1710月2023 00:01:33.638] [Render thread/INFO] [xaero.common.MinimapLogs/]: New minimap session initialized!
+[1710月2023 00:01:34.089] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Loaded 0 external GUI hints
+[1710月2023 00:01:34.090] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Loaded 783 build-in GUI hints
+[1710月2023 00:01:34.090] [Render thread/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Effective GUI hints after merge: 783
+[1710月2023 00:01:34.296] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client login
+[1710月2023 00:01:34.296] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[1710月2023 00:01:34.296] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[1710月2023 00:01:34.730] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[1710月2023 00:01:35.776] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[1710月2023 00:01:35.776] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[1710月2023 00:01:35.777] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[1710月2023 00:01:35.785] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[1710月2023 00:01:35.788] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 2.319 ms
+[1710月2023 00:01:35.788] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[1710月2023 00:01:35.790] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 2.069 ms
+[1710月2023 00:01:35.792] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[1710月2023 00:01:35.921] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 128.8 milliseconds
+[1710月2023 00:01:35.922] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 129.7 ms
+[1710月2023 00:01:35.938] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[1710月2023 00:01:35.960] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 21.82 milliseconds
+[1710月2023 00:01:35.968] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 28.81 ms
+[1710月2023 00:01:35.969] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[1710月2023 00:01:35.972] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 3.277 ms
+[1710月2023 00:01:35.975] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[1710月2023 00:01:35.978] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 2.038 ms
+[1710月2023 00:01:35.979] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[1710月2023 00:01:35.980] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 498.6 μs
+[1710月2023 00:01:35.980] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[1710月2023 00:01:36.000] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 19.94 ms
+[1710月2023 00:01:36.002] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[1710月2023 00:01:36.460] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 456.5 milliseconds
+[1710月2023 00:01:36.488] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: farmersdelight:jei_plugin took 28.03 milliseconds
+[1710月2023 00:01:36.490] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 487.4 ms
+[1710月2023 00:01:36.494] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[1710月2023 00:01:36.502] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 6.471 ms
+[1710月2023 00:01:36.511] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[1710月2023 00:01:36.514] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[1710月2023 00:01:36.530] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 15.07 ms
+[1710月2023 00:01:36.536] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[1710月2023 00:01:36.540] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[1710月2023 00:01:36.541] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[1710月2023 00:01:36.549] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 7.550 ms
+[1710月2023 00:01:36.549] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[1710月2023 00:01:36.588] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 2978 ingredients
+[1710月2023 00:01:36.893] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 2978 ingredients
+[1710月2023 00:01:36.895] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 345.8 ms
+[1710月2023 00:01:37.153] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 615.3 milliseconds
+[1710月2023 00:01:37.153] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 616.5 ms
+[1710月2023 00:01:37.155] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 642.5 ms
+[1710月2023 00:01:37.155] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[1710月2023 00:01:37.156] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 607.5 μs
+[1710月2023 00:01:37.156] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 1.378 s
+[1710月2023 00:01:37.218] [Render thread/INFO] [xaero.common.MinimapLogs/]: Minimap updated server level id: 1729798633 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[1710月2023 00:01:37.233] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1245 advancements
+[1710月2023 00:01:37.589] [Render thread/INFO] [xaero.common.MinimapLogs/]: Reloading entity icon resources...
+[1710月2023 00:01:37.602] [Render thread/INFO] [xaero.common.MinimapLogs/]: Done!
+[1710月2023 00:02:37.029] [Render thread/INFO] [xaero.common.MinimapLogs/]: Minimap session finalized.
+[1710月2023 00:02:37.033] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client logout
+[1710月2023 00:02:37.033] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[1710月2023 00:02:37.034] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[1710月2023 00:02:37.034] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[1710月2023 00:02:37.035] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[1710月2023 00:02:37.038] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[1710月2023 00:02:37.054] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:forge_gui took 16.06 milliseconds
+[1710月2023 00:02:37.055] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 18.69 ms
+[1710月2023 00:02:41.405] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client logout
+[1710月2023 00:02:41.420] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to 26.223.162.89, 1234
+[1710月2023 00:03:13.094] [Server Connector #2/ERROR] [net.minecraft.client.gui.screens.ConnectScreen/]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: 26.223.162.89/26.223.162.89:1234
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%23104!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%23104!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[1710月2023 00:04:00.326] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client logout
+[1710月2023 00:04:00.338] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to 26.223.162.89, 1234
+[1710月2023 00:04:30.828] [Server Connector #3/ERROR] [net.minecraft.client.gui.screens.ConnectScreen/]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: 26.223.162.89/26.223.162.89:1234
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar%23109!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%23104!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%23104!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[1710月2023 00:04:44.468] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[1710月2023 00:04:44.481] [Render thread/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Client logout

@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "PCL": {
+      "icon": "Grass",
+      "name": "PCL",
+      "lastVersionId": "latest-release",
+      "type": "latest-release",
+      "lastUsed": "2023-09-10T08:33:59+08:00"
+    }
+  },
+  "selectedProfile": "PCL",
+  "clientToken": "6daa12430b27468e8064c70040fa36aa",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "accessToken": "eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQ0MjY3OTA0NTQ5NCIsImFnZyI6IkFkdWx0Iiwic3ViIjoiYmVmOTg2YTUtOGJkNy00NDczLTgyMTctOGEwMjQ2ZDQwOWE2IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm9yZGVyc18yMDIyIl0sInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiI2NGJmNDgxY2JmZTBjYTA0N2I2YzAzMmYzNTEwYzBjNCIsIm5iZiI6MTY5NDI3Nzc3MiwiZXhwIjoxNjk0MzY0MTcyLCJpYXQiOjE2OTQyNzc3NzJ9.DLC2EZRwrcCXAdw3x2AWPJzwwZAuAu39layqJPhkajE",
+      "username": "star_648",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "star_648"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
+}

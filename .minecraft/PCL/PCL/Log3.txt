@@ -1,0 +1,56 @@
+[00:33:59.489] [Start] 程序版本：Snapshot 2.6.7（303）
+[00:33:59.492] [Start] 识别码：D5B5-CFD6-DB61-2BC9
+[00:33:59.492] [Start] 程序路径：C:\Users\86151\Desktop\.minecraft\PCL\Plain Craft Launcher 2.exe
+[00:33:59.497] [Start] 第一阶段加载用时：79 ms
+[00:33:59.589] [UI] 刷新主题：0
+[00:33:59.627] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[00:33:59.628] [Start] 第二阶段加载用时：125 ms
+[00:33:59.639] [Minecraft] 已创建 launcher_profiles.json：C:\Users\86151\Desktop\.minecraft\PCL\.minecraft\
+[00:33:59.640] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[00:33:59.876] [System] 窗口已置顶，位置：(352.888888888889, 196), 830.222222222222 x 520
+[00:33:59.881] [Start] 第三阶段加载用时：62 ms
+[00:33:59.881] [Animation] 动画线程开始
+[00:33:59.883] [Start] 加载 DLL：Json
+[00:33:59.883] [System] 获取资源：Json
+[00:33:59.892] [Launch] 没有已储存的 Minecraft 文件夹
+[00:33:59.893] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[00:33:59.899] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[00:33:59.919] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\86151\Desktop\.minecraft\PCL\.minecraft\
+[00:33:59.919] [Launch] Minecraft 文件夹：C:\Users\86151\Desktop\.minecraft\PCL\.minecraft\
+[00:33:59.919] [Launch] Minecraft 版本无效，没有有效版本
+[00:33:59.926] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[00:33:59.932] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[00:33:59.937] [Setup] 当前选择的 Minecraft 版本：
+[00:33:59.939] [Minecraft] 未找到可用 Minecraft 版本
+[00:33:59.939] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[00:33:59.950] [Launch] 无可用 Minecraft 版本
+[00:33:59.972] [Page] 实例化：清空自定义主页 UI，来源为空
+[00:33:59.975] [Minecraft] 启动按钮：无 Minecraft 版本，要求下载
+[00:33:59.979] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[00:33:59.980] [Loader] 加载器 登录 状态改变：Loading
+[00:33:59.985] [Skin] 载入头像成功：Loader Skin Ms
+[00:33:59.987] [Launch] 登录加载已开始
+[00:33:59.988] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[00:33:59.992] [Launch] 登录方式：正版（star_648）
+[00:33:59.993] [Launch] 开始微软登录步骤 2（刷新登录）
+[00:33:59.999] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[00:34:00.088] [Java] 缓存中有 4 个可用的 Java：
+[00:34:00.089] [Java]  - JRE 8 (8.0.60)，64 位：C:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[00:34:00.089] [Java]  - JDK 17 (17.0.2)，64 位：C:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[00:34:00.089] [Java]  - JDK 19 (19.0.2)，64 位：D:\大一\下学期\java文件\java\bin\
+[00:34:00.089] [Java]  - JDK 19 (19.0.2)，64 位：D:\360Downloads\Software\bin\
+[00:34:00.303] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[00:34:00.305] [Loader] 加载器 PCL 服务 状态改变：Loading
+[00:34:00.305] [Server] 正在连接到 PCL 服务器
+[00:34:00.309] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[00:34:00.336] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1694277240-636c576f-0-440a49680b4589f4b1d68f3a472e42e5，超时 10000ms
+[00:34:00.479] [Server] 服务器公告：117|303|302|5，无需更新
+[00:34:00.494] [Loader] 加载器 PCL 服务 状态改变：Finished
+[00:34:00.605] [System] DPI：216，系统版本：10.0.22621.0，PCL 位置：C:\Users\86151\Desktop\.minecraft\PCL\Plain Craft Launcher 2.exe
+[00:34:01.021] [Launch] 开始微软登录步骤 3
+[00:34:01.021] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[00:34:01.283] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[00:34:01.716] [Control] 按下图标按钮：BtnTitleClose
+[00:34:01.718] [System] 收到关闭指令
+[00:34:01.791] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[00:34:01.956] [System] 程序已退出，返回值：Success
